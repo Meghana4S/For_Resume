@@ -7,6 +7,6 @@ https://github.com/Meghana4S/For_Resume/blob/main/chatbot_new.ipynb tap here to 
 
 https://github.com/Meghana4S/For_Resume/blob/main/ledon.py and https://github.com/Meghana4S/For_Resume/blob/main/ledoncont.py tap here to open guesture control code.
 
-https://github.com/Meghana4S/For_Resume/blob/main/bluetooth%20control%20car.pdf - tap here to open complete gesture control report.
+https://github.com/Meghana4S/For_Resume/blob/main/guesture_contol_final.pdf - tap here to open complete gesture control report.
 
 
