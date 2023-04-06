@@ -1,7 +1,7 @@
 # For_Resume
 Projects
 
-https://github.com/Meghana4S/For_Resume/blob/main/bluetooth_controlled_Robot.pdf tap here to open bluetooth controlled robot project.
+https://github.com/Meghana4S/For_Resume/blob/main/bluetooth_controlled_Robot.pdf and https://github.com/Meghana4S/For_Resume/blob/main/bluetooth_controlled_Robot2.pdf - tap here to open bluetooth controlled robot project.
 
 https://github.com/Meghana4S/For_Resume/blob/main/chatbot_new.ipynb tap here to open chatbot project.
 
